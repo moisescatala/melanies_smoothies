@@ -8,8 +8,8 @@ import requests
 st.title(" My Parents New Healty Dinner  ")
 
 
-name_on_order = st.text_input("Name of the Smoothie")
-st.write("The name of the smoothie will be", name_on_order)
+name_on_order = st.text_input("Name of the Smoothie!!")
+st.write("The name of the smoothie will be", name_on_order) 
 
 
 st.write("Choose the fruits you want in your custom Smoothie!")
